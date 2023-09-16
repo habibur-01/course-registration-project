@@ -1,0 +1,76 @@
+[
+    {
+      "id": "cr1001",
+      "cover": "https://i.ibb.co/B6RGFM8/Rectangle-2-2.png",
+      "title": "Introduction to C Programming",
+      "title_description": "Learn the fundamentals of C programming language.",
+      "price": 15000,
+      "credit_hour": 1
+    },
+    {
+      "id": "cr1002",
+      "cover": "https://i.ibb.co/mC3sWBg/Rectangle-2-3.png",
+      "title": "Introduction to Algorithms",
+      "title_description": "Explore the world of algorithms and problem-solving.",
+      "price": 25000,
+      "credit_hour": 2
+    },
+    {
+      "id": "cr1003",
+      "cover": "https://i.ibb.co/KFb1JJk/Rectangle-2-4.png",
+      "title": "Introduction to C++ for DSA",
+      "title_description": "Get started with C++ for data structures and algorithms.",
+      "price": 10000,
+      "credit_hour": 10
+    },
+    {
+      "id": "cr1004",
+      "cover": "https://i.ibb.co/5Kt11vp/Rectangle-3.png",
+      "title": "Basic Data Structures",
+      "title_description": "Master the fundamental data structures in programming.",
+      "price": 35000,
+      "credit_hour": 5
+    },
+    {
+      "id": "cr1005",
+      "cover": "https://i.ibb.co/py4J5Bv/Rectangle-2.png",
+      "title": "Introduction to OOP Python",
+      "title_description": "Learn object-oriented programming with Python.",
+      "price": 19000,
+      "credit_hour": 5
+    },
+    {
+      "id": "cr1006",
+      "cover": "https://i.ibb.co/QYmqCdP/Rectangle-2-5.png",
+      "title": "Software Engineering",
+      "title_description": "Explore the principles of software engineering.",
+      "price": 23000,
+      "credit_hour": 2
+    },
+    {
+      "id": "cr1007",
+      "cover": "https://i.ibb.co/4WQPDJB/Rectangle-3-1.png",
+      "title": "AWS, Cloud Computing",
+      "title_description": "Master cloud computing and AWS services.AWS is reliable, scalable and inexpensive.",
+      "price": 35000,
+      "credit_hour": 5
+    },
+    {
+      "id": "cr1008",
+      "cover": "https://i.ibb.co/8dPy8vR/Rectangle-2-1.png",
+      "title": "Database (MySQL)",
+      "title_description": "Learn database management with MySQL.MySQL is free and open-source.",
+      "price": 19000,
+      "credit_hour": 5
+    },
+    {
+      "id": "cr1009",
+      "cover": "https://i.ibb.co/HBw1Xh6/Rectangle-2-6.png",
+      "title": "Problem-Solving Part",
+      "title_description": "Enhance your problem-solving skills in programming.",
+      "price": 23000,
+      "credit_hour": 2
+    }
+   
+  ]
+  
